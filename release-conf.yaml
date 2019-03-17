@@ -1,0 +1,7 @@
+author_name: Aniket Pradhan
+author_email: aniket17133@iiitd.ac.in
+fedora: false
+labels:
+  - bot
+  - uWu
+trigger_on_issue: true
